@@ -1,0 +1,175 @@
+#flix{
+    color: red;
+    text-align: start;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#sign{
+    font-size: 10px;
+    margin-right: 5px;
+    margin-top: -55px;
+    text-align: end;
+    
+    
+}
+#sub{
+    background-color: red;
+    color: white;
+    width: 200px;
+    height: 35px;
+    
+}
+#butt{
+    background-color: red;
+    color: white;
+    width: 150px;
+    padding: 5px 5px 5px 5px;
+}
+
+#background{
+    background-image: url(../netflix/netflixx.jpg);
+    margin-top: 10px;
+    width:100%;
+    height: 100%;
+    widows: 100%;
+
+}
+#prime{
+    color: white;
+    text-align: center;
+}
+#sec{
+    color: white;
+    text-align: center;
+    padding-bottom: 50px;
+    
+}
+input{
+     height: 30px;
+     width: 30%;
+}
+#break{
+    height: 10px;
+    width: 955px;
+   background-color: gray;
+}
+#breac{
+    color: black;
+    height: 5px;
+}
+#ask{
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+#third{
+    background-color: black;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    height: 170px;
+}
+#fourth{
+    background-color: black;
+    color: white;
+    padding-top: 30px;
+    padding-right: 4px;
+    text-align: right;
+}
+#fifth{
+    background-color: black;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    height: 170px;
+}
+#ytub{
+    border-style: solid;
+    border-color: black;
+    border-bottom-color: white;
+    border-width: 0.5px;
+    border-bottom-width: 16px;
+    display: block;
+    margin-left: 620px;
+    margin-top: -201px;
+}
+#netmo{
+    background-color: black;
+    border-style: solid;
+    border-color: black;
+    border-width: 0.5px;
+    display: block;
+    margin-left: 400px;
+    margin-top: -130px;
+    opacity: 0.4;
+}
+#img{
+    display: block;
+    margin-left: 500px;
+    margin-top: -130px;
+}
+#image{
+    display: block;
+    float: left;
+    margin-top: -200px;
+    margin-left: 50px;
+}
+#six{
+    
+    color: white;
+    text-align: center;
+    margin-top: -34px;
+}
+li{
+    background-color: gray;
+    height: 40px;
+    width: 100%;
+}
+a{
+    float: right;
+    padding-right: 30px;
+}
+#list{
+    margin-bottom: 50px;
+}
+#seventh{
+    
+    text-align: center;
+    height: 100px;
+    color: white;
+}
+#foot{
+    background-color: black;
+    color: gray;
+    height: 220px;
+    
+}
+#eight{
+    margin-top: -35px;
+}
+#ques{
+    font-size: 20px;
+    padding-top: 20px;
+    padding-left: 50px;
+}
+
+#ul1{
+    margin-left: 5px;
+    float: start;
+}
+#ul2{
+    margin-left: -250px;
+    margin-top: -150px;
+    text-align: center;
+    
+    }
+    #ul3{
+        margin-top: -150px;
+        margin-left: 300px;
+        text-align: center;
+        
+        }
+        #ul4{
+            margin-top: -150px;
+            margin-right: 20px;
+            text-align: end;
+            
+            }
